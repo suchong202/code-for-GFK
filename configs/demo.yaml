@@ -1,0 +1,25 @@
+{
+  "_notice": "All values in this file are synthetic-demo values, not paper hyperparameters.",
+  "demo_data": {
+    "n_samples": 120,
+    "n_bins": 128,
+    "validation_fraction": 0.25,
+    "noise_scale": 0.12,
+    "signal_scale": 1.10
+  },
+  "selector": {
+    "implementation": "public_placeholder",
+    "selected_count": 12
+  },
+  "augmentation": {
+    "implementation": "public_placeholder",
+    "enabled": true,
+    "jitter_std": 0.01
+  },
+  "training": {
+    "epochs": 30,
+    "learning_rate": 0.18,
+    "l2": 0.001
+  },
+  "decision_threshold": 0.5
+}
