@@ -1,1 +1,1 @@
-The supplementary material file is named Supplementary Material.docx.
+The supplementary material file is named Supplementary material.docx.
